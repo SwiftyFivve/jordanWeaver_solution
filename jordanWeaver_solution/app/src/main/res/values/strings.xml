@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">jordanWeaver_solution</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_text">Title:</string>
+    <string name="summary_text">Content:</string>
+    <string name="date_text">Date:</string>
+    <string name="action_details">Details</string>
+    <string name="action_alphabet">Sort Alphabetical</string>
+    <string name="action_date">Sort by Date</string>
+</resources>
